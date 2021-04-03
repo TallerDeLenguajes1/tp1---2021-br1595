@@ -1,6 +1,6 @@
 # Trabajo Práctico N2
 ## Punto 2 inciso b
-Investigar el archivo .gitignore ¿Por qué es conveniente incluirlo? ¿Cuándo se debe hacer? ¿Cómo usaría la página https://www.gitignore.io/? ¿Cómo configuraría el archivo .gitignore?
+#### Investigar el archivo .gitignore ¿Por qué es conveniente incluirlo? ¿Cuándo se debe hacer? ¿Cómo usaría la página https://www.gitignore.io/? ¿Cómo configuraría el archivo .gitignore?
 
 #### ¿Por qué es conveniente incluirlo?
 Es conveniente incluir el archivo .gitignore ya que el mismo es un archivo de texto cuyo contenido denotan los elementos/archivos que no deberánser sincronizados, por ejemplo archivos ejecutables usados en el proceso de creación y/o modificación de algún programa.
