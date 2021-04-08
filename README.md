@@ -13,3 +13,4 @@ Encontré muy útil a la página nombrada puesto que no solamente da la posibili
 
 #### ¿Cómo configuraría el archivo .gitignore?
 Al generar mi archivo de .gitignore primero agregaría la excepción de todos los archivos relacionados con el sistema operativo usado, luego los elementos correspondietes al IDE utilizado (por ejemplo la carpeta .vscode, etc), los archivos ejecutables y por ultimo los archivos de texto (esta lista puede llegar a ser modificada en un futuro).
+# tp2---2021-br1595
